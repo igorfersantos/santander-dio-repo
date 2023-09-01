@@ -14,7 +14,9 @@ Roadmap para estudos complementares de java base além da base de java oferecida
 <br><small>sugestão: Estudar até a parte de Build Tools, e seguir para a [pasta temática de Spring](../spring/README.md)</small>
 
 #### Leituras
-Java Efetivo (Joshua Bloch)
+Java Efetivo (Joshua Bloch)<br>
+[Engenharia de Software Moderna](https://engsoftmoderna.info/) (Marco Tulio Valente)<br>
+Orientação a Objetos: Aprenda seus conceitos e suas aplicabilidades de forma efetiva -  Thiago Leite e Carvalho
 
 #### Leituras relacionadas
 Algoritmos: Lógica Para Desenvolvimento de Programação de Computadores - Edição Revisada e Atualizada (José Augusto N. G. Manzano, Jayr Figueiredo de Oliveira)
