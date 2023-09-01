@@ -15,3 +15,6 @@ Roadmap para estudos complementares de java base além da base de java oferecida
 
 #### Leituras
 Java Efetivo (Joshua Bloch)
+
+#### Leituras relacionadas
+Algoritmos: Lógica Para Desenvolvimento de Programação de Computadores - Edição Revisada e Atualizada (José Augusto N. G. Manzano, Jayr Figueiredo de Oliveira)
